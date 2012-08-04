@@ -1,7 +1,6 @@
 source :rubygems
 gem "sinatra"
-gem "datamapper"
-gem "dm-core"
+gem "data_mapper"
 gem "slim"
 gem "sass"
 gem "thin"
